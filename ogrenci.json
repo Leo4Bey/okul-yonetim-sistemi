@@ -1,0 +1,13 @@
+{
+    "ogrenci": [
+        {
+            "no": 1,
+            "sifre": "ali1",
+            "ad": "Ali",
+            "mat": 100,
+            "fen": 100,
+            "devamsizlik": 2,
+            "sinif": "12/B"
+        }
+    ]
+}
